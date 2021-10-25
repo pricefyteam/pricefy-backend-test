@@ -40,7 +40,7 @@ O processo seletivo da engenharia da [Pricefy](https://www.pricefy.com.br/) é b
  
 ## Como realizar o teste?
  
-Para realizar este teste, basta fazer um fork deste repositório, implementar os requisitos descritos aqui e me mandar um [e-mail](leandro.silva@pricefy.com.br) com seu CV em PDF ou link do perfil no LinkedIn.
+Para realizar este teste, basta fazer um fork deste repositório, implementar os requisitos descritos aqui e me mandar um [e-mail](mailto:leandro.silva@pricefy.com.br) com seu CV em PDF ou link do perfil no LinkedIn.
  
 Ah! Verdade. Em que linguagem realizar o teste? Em **C# .NET**, please. Isso porque nossa *linguagem padrão* no back-end é C#. (Ao menos nos dias atuais e futuro próximo.)
  
@@ -94,6 +94,6 @@ Não há requisitos obrigatórios para nada disso. **Você decide.** E a sua dec
  
 ## Okay. E se eu tiver dúvidas, como faço?
  
-Você pode me procurar e terei o maio prazer em sanar suas dúvidas ao máximo. Você sabe meu [e-mail](leandro.silva@pricefy.com.br), né? Me mande um e-mail com suas dúvidas e partimos de lá.
+Você pode me procurar e terei o maio prazer em sanar suas dúvidas ao máximo. Você sabe meu [e-mail](mailto:leandro.silva@pricefy.com.br), né? Me mande um e-mail com suas dúvidas e partimos de lá.
  
 Pense em mim como seu cliente, o sponsor do projeto. Eu não quero que você me entregue o que eu não preciso; o meu interesse é que você mate a pau esse teste.
