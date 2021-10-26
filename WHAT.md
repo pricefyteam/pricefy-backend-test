@@ -23,7 +23,12 @@ Antes de mais nada, você deve estar se perguntando: **por que eu trabalharia na
 * Desafio aqui é o que não falta. Espaço para opinar e inovar também!
  
 O que acha? Isso te empolga?
- 
+
+## Um pouco mais sobre a tecnologia por trás da Pricefy
+
+* ProdOps ⎼ Engenharia e Produto com Leandro Silva ([link 1](https://www.youtube.com/watch?v=2IxX2f0ZckQ) e [link 2](https://www.youtube.com/watch?v=jOeuK2U8vI8))
+* ElvenWorks ⎼ Conhecendo a tecnologia por trás de uma solução muito inteligente de Precificação ([link](https://www.youtube.com/watch?v=DCT0IoRcrUo))
+
 ## Processo Seletivo
  
 O processo seletivo da engenharia da [Pricefy](https://www.pricefy.com.br/) é bem simples e composto por 4 etapas:
